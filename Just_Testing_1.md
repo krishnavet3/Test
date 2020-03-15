@@ -1,5 +1,5 @@
 
-![](dock_images/addAccount.png)
+![](screenshots/addAccount.png)
 Just Testing 
 =============
 
